@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 ### GitHub stats:
 <!--
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=horberlan">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ferdyandannes">
 <p/>
 -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/horberlan/horberlan/main/colored.png">
+  <img src="https://raw.githubusercontent.com/ferdyandannes/ferdyandannes/main/colored.png">
 <p/>
